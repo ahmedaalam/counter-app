@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.page {
+  background-color: #212121;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 100px;
+}
+
+.div {
+  line-height: 0;
+  text-align: center;
+}
+
+.circle {
+  background-color: #242424;
+  height: 240px;
+  width: 240px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  line-height: 0;
+}
+
+#number {
+  color: #ffffff;
+  font-size: 7rem;
+  font-weight: 400;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+
+.btn {
+  background: #6b6b6b;
+  color: transparent;
+  height: 32px;
+  width: 32px;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  color: #111827;
+  transition: all 0.25s ease;
+}
+
+#increment {
+  height: 60px;
+  width: 60px;
+  background-color: #3c47ac;
+  color: #ffffff;
+}
+
+.fa-plus {
+  font-size: xx-large;
+}
+
+.btn:active {
+  transform: scale(0.96);
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+i {
+  font-size: large;
+}
