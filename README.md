@@ -2,13 +2,13 @@
 
 A simple counter app with increment, decrement, and reset functionality.
 
-## 🚀 Live Demo
+## Live Demo
 
 https://ahmedaalam.github.io/counter-app/
 
-## 📸 Screenshot
-<img src="./screenshot.png" width="400" />
+## Screenshot
+<img src="./screenshot.png"/>
 
-## 🛠️ Tech
+## Tech
 
 HTML • CSS • JavaScript
