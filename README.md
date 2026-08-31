@@ -7,7 +7,8 @@ A simple counter app with increment, decrement, and reset functionality.
 https://ahmedaalam.github.io/counter-app/
 
 ## Screenshot
-<img src="./screenshot.png"/>
+
+![Preview](./screenshot.png)
 
 ## Tech
 
