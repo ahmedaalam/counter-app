@@ -6,7 +6,7 @@ body {
 }
 
 .page {
-  background-color: #212121;
+  background-color: #ffffff;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -21,7 +21,7 @@ body {
 }
 
 .circle {
-  background-color: #242424;
+  background: #E5E7EB;
   height: 240px;
   width: 240px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
@@ -47,7 +47,7 @@ body {
 }
 
 .btn {
-  background: #6b6b6b;
+  background: #374151;
   color: transparent;
   height: 32px;
   width: 32px;
