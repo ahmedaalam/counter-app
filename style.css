@@ -21,7 +21,7 @@ body {
 }
 
 .circle {
-  background: #E5E7EB;
+  background: #EEEEEE;
   height: 240px;
   width: 240px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
@@ -34,7 +34,7 @@ body {
 }
 
 #number {
-  color: #ffffff;
+  color: #1C1C1C;
   font-size: 7rem;
   font-weight: 400;
 }
@@ -47,7 +47,7 @@ body {
 }
 
 .btn {
-  background: #374151;
+  background: #1C1C1C;
   color: transparent;
   height: 32px;
   width: 32px;
@@ -56,7 +56,7 @@ body {
   cursor: pointer;
   font-size: 14px;
   font-weight: 500;
-  color: #111827;
+  color: #ffffff;
   transition: all 0.25s ease;
 }
 
